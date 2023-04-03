@@ -26,26 +26,26 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-<a href="https://badgr.com/backpack/badges/64230cb91052497a9690c564" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://badgr.com/backpack/badges/64231108a35a3c01c9bb9ac8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://badgr.com/backpack/badges/64230ed4a35a3c01c9bb98ca" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://badgr.com/backpack/badges/64230ec01052497a9690c77b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href ="https://badgr.com/backpack/badges/64230ee91052497a9690c797" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e6f31db76aa258d4e26be8464f2dff9796d5cf59185976df02dd80ae6a60cc9e/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7075672e737667" width="36" height="36"/></a>
-<a href="https://badgr.com/backpack/badges/64230f0ba35a3c01c9bb994d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://badgr.com/backpack/badges/64230ee91052497a9690c797" target="_blank" rel="noreferrer"><img src="./img/mongoose.png" width="36" height="36" alt="moongose">
-<a href="https://badgr.com/backpack/badges/64230f25a35a3c01c9bb9967" target="_blank" rel="noreferrer"><img src="./img/SQL.png" width="36" height="36" alt="SQL">
-<a href="https://badgr.com/backpack/badges/64230ee91052497a9690c797" target="_bregexlank" rel="noreferrer"><img src="./img/jwt.png" width="36" height="36" alt="JasonWeebTokken" /></a>
+<a href="https://badgr.com/backpack/badges/63e1437680d53917aac6f897" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://badgr.com/backpack/badges/63e14596fea89642b0bd14eb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://badgr.com/backpack/badges/63e14471fea89642b0bd1144" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://badgr.com/backpack/badges/63e144ff80d53917aac6fd58" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href ="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e6f31db76aa258d4e26be8464f2dff9796d5cf59185976df02dd80ae6a60cc9e/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7075672e737667" width="36" height="36" alt="Pug"/></a>
+<a href="https://badgr.com/backpack/badges/63e144c780d53917aac6fc2e" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="./img/mongoose.png" width="36" height="36" alt="moongose">
+<a href="" target="_blank" rel="noreferrer"><img src="./img/SQL.png" width="36" height="36" alt="SQL">
+<a href="" target="_bregexlank" rel="noreferrer"><img src="./img/jwt.png" width="36" height="36" alt="JasonWeebTokken" /></a>
 <a href="https://regexr.com/" target="_blank" rel="noreferrer"><img src="./img/regex.png" width="36" height="36" alt="RegEx" /></a>
 <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer"><img src="./img/Jest.png" width="36" height="36" alt="Jest" /></a>
-<a href="https://badgr.com/backpack/badges/64230c83a35a3c01c9bb9529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://badgr.com/backpack/badges/64230c9ba35a3c01c9bb954a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://badgr.com/backpack/badges/64230f41a35a3c01c9bb9996" target="_blank" rel="noreferrer"><img src="./img/POO.jpg" width="36" height="36" alt="POO" /></a>
-<a href="https://badgr.com/backpack/badges/64230dc91052497a9690c6e3" target="_blank" rel="noreferrer"><img src="./img/github.png" width="36" height="36" alt="github" /></a>
+<a href="https://badgr.com/backpack/badges/63e1428380d53917aac6f6d1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://badgr.com/backpack/badges/63e142c5fea89642b0bd0f21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.ibm.com/docs/es/spss-modeler/saas?topic=language-object-oriented-programming" target="_blank" rel="noreferrer"><img src="./img/POO.jpg" width="36" height="36" alt="POO" /></a>
+<a href="https://badgr.com/backpack/badges/63e147f4fea89642b0bd1e78" target="_blank" rel="noreferrer"><img src="./img/github.png" width="36" height="36" alt="github" /></a>
 </p>
 
-## Codewars JavaScript Level:
+<!-- ## Codewars JavaScript Level:
 ![Codewars Level](https://www.codewars.com/users/Neiva/badges/large)
- 
+  -->
  
  ## My Statistics
  
